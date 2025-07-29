@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NIKHIL VALASANGAKAR</h1>
+<h1 align="center">💫 Hi 👋, I'm Nikhil Valasangakar</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2222251&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2222251" /> </p>
@@ -21,6 +21,11 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -68,4 +73,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
