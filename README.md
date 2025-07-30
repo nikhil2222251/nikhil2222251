@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2222251&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2222251" /> </p>
 
 - 🌱 Python Full Stack **HTML,CSS,JavaScript.**
-- <img align="right" alt="coding" width="400" src="<img width="283" height="178" alt="image" src="https://github.com/user-attachments/assets/ce0b7725-84a0-4ba6-8c5c-b04e95a56604" />
-">
+- <img align="right" alt="coding" width="400" src="<img width="283" height="178" alt="image" src="https://github.com/user-attachments/assets/ce0b7725-84a0-4ba6-8c5c-b04e95a56604">
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
