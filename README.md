@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2222251&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2222251" /> </p>
 
 - 🌱 Python Full Stack **HTML,CSS,JavaScript.**
-<imh align="right" alt="coding" width="400" src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34326ec9-fec0-489a-a661-cda1fb2d0099" />
-">
+<imh align="right" alt="coding" width="400" src="<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/34326ec9-fec0-489a-a661-cda1fb2d0099" />
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-v" height="30" width="40" /></a>
